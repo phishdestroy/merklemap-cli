@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:31:07.901032+00:00",
+  "upstream": "Merklemap/merklemap-cli",
+  "upstream_branch": "master",
+  "upstream_commit": "550cb04aa633c000724c339ada085c59444d5b78",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
